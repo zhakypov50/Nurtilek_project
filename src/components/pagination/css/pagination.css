@@ -1,0 +1,40 @@
+.container {
+    margin: 72px 0 37px;
+}
+
+.typof {
+    margin-top: 70px;
+    height: 370px;
+    width: 780px;
+}
+
+.typof div:first-child{
+    column-gap: 85px;
+}
+
+.slide {
+    width: 401px;
+    height: 310px;
+}
+
+.slide_content {
+    width: 400px;
+    height: 235px;
+}
+
+.photo {
+    width: 400px;
+    height: 235px;
+}
+
+.rec {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: dodgerblue;
+    margin-top: 15px;
+}
+
+.ajax {
+    text-decoration: none;
+}

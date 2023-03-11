@@ -1,0 +1,8 @@
+.wrapper {
+    margin: 120px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
